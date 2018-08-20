@@ -3,9 +3,9 @@
 ![image](https://img.shields.io/badge/Android-Custom%20Alert%20Dialog-brightgreen.svg)
 
 ## ScreenShot
-![image](https://github.com/MuhammadZohair/Custom-Alert-Dialog/blob/master/Final_screenshot.gif)
+![image](https://github.com/MuhammadZohair/CustomAlertDialog/blob/master/Final_screenshot.gif)
 
-[Demo Download](https://github.com/MuhammadZohair/Custom-Alert-Dialog/raw/master/CustomAlertDialog)
+[Demo Download](https://github.com/MuhammadZohair/CustomAlertDialog/raw/master/CustomAlertDialog)
 
 ## License
 
